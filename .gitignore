@@ -1,0 +1,43 @@
+# Maven build output
+target/
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Spring Boot
+HELP.md
+.mvn/
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# H2 baza
+*.db
+
+# Local environment
+.env
+*.local
